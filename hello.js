@@ -7,3 +7,6 @@ const b=()=>{
 
     
 }
+const e=()=>{
+    alert("e")
+}
