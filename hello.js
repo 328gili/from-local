@@ -7,7 +7,13 @@ const b=()=>{
 
     
 }
+const d=()=>{
+    confirm("Are you sure")
+
+}
+
 const c=()=>{
     console.log("function c");
     
 }
+
